@@ -5,7 +5,7 @@ The main purpose of this extension is to provide faster access to the services f
 
 Whenever a user with the plugin opens a new tab either by mouse or keyboard, the user is presented with a predifined page from which the user can easily reach the websites.
 
-The extension was made during my Internship period at Salvonic Technologies Pvt. Ltd.
+The extension was made during my Internship period at Salvonic Technologies Pvt. Ltd. (https://salvonictechnologies.com/)
 
 <hr>
 <h3> Screenshots </h3>
