@@ -9,3 +9,7 @@ The extension was made during my Internship period at Salvonic Technologies Pvt.
 
 <hr>
 <h3> Screenshots </h3>
+
+<img src="Salvonic Plugin/imgs/Capture.PNG" height="200"> 
+<img src="Salvonic Plugin/imgs/2019-01-20 (1).png" height="200">
+<img src="Salvonic Plugin/imgs/2019-01-20.png" height="200">
