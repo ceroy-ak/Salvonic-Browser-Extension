@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name":"Salvonic HIMS Startup Extension",
+  "version": "1.0",
+  "icons":{
+    "16" : "imgs/favicon.png",
+    "48" : "imgs/favicon.png",
+    "128" : "imgs/favicon.png"
+  },
+  "browser_action" :{
+    "default_icon": "imgs/favicon.png"
+  },
+  "chrome_url_overrides":{ "newtab": "index.html"}
+}
