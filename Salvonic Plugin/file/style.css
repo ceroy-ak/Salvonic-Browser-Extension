@@ -1,0 +1,30 @@
+<style>
+        .fa{
+          color: #789ED0;
+        }
+        .fa-google:hover {
+          color: #F4B400;
+        }
+        .fa-sign-in:hover {
+          color: #0F9D58;
+        }
+        .fa-whatsapp:hover {
+          color: #4AC959;
+        }
+        .fa-envelope:hover {
+          color: #DB4437;
+        }
+        .fa-slack:hover {
+          color: #6ecadc;
+        }
+        .fa-facebook:hover {
+          color: #3C5A99;
+        }
+        .alert{
+          position: fixed;
+          bottom: 0;
+          left: 2%;
+          width: 95%;
+        }
+
+    </style>
